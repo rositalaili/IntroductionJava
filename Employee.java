@@ -14,6 +14,7 @@ public class Employee {
         System.out.println("Id: " + empId + " Name: " + empName);
     }
 
+    //main for testing
     public static void main(String args[]) {
         Employee obj1 = new Employee(10245,
         "Bunga”);
