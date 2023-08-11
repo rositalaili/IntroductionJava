@@ -1,0 +1,2 @@
+# Introduction Class and Object In Java
+This repository is one of the course assignments that discusses examples of Java code in implementing Object Oriented Programming discussing class and object introductions. There are two cases in the example, namely the first, the case to find out the area of ​​a circle. In this case, it consists of two classes namely class CircleX and TestCircleX separately. Whereas in the second case regarding employee data where class files and files for class tests are combined into one file.
